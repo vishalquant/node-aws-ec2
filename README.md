@@ -1,5 +1,9 @@
 # node-aws-ec2
 Ref: https://www.youtube.com/watch?v=Buh3GjHPmjo
+Ref Jenkins: https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/#Download%20and%20Install%20Jenkins
+
+
+
 
 Steps:
 
