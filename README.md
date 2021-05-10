@@ -1,6 +1,10 @@
 # node-aws-ec2
-Ref: https://www.youtube.com/watch?v=Buh3GjHPmjo
-Ref Jenkins: https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/#Download%20and%20Install%20Jenkins
+Ref: 
+https://www.youtube.com/watch?v=Buh3GjHPmjo
+Jenkins: https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/#Download%20and%20Install%20Jenkins
+Setup EC2 on Jenkins:  https://www.youtube.com/watch?v=1XI9_4umWVk
+
+https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-four-stage-pipeline.html?icmpid=docs_acp_console#tutorials-four-stage-pipeline-prerequisites
 
 
 
