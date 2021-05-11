@@ -1,2 +1,10 @@
 application stop script fail reason?
+    Ans: When you do a deployment, it will actually use the ApplicationStop from your last successful deployment, not your current deployment. 
+    It's a common issue when the ApplicationStop scripts have a bug.
+
+    Temp Solution: Copy the deployment and check the option 'Don't fail the deployment to an instance if this lifecycle event on the instance fails'
+
 rake aborted for build stage reason?
+
+Application not running on port 3000 event security group has PORT 3000, reason?
+
