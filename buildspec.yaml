@@ -3,11 +3,10 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      java: corretto11
+      nodejs: 10
   build:
     commands:
-      - echo Build started on `date`
-      - mvn clean install 
+      - echo Build started on `date`      
 artifacts:
   files:
     - '**/*'
